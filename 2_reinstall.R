@@ -1,4 +1,4 @@
-setwd("~/git/snfa-devel")
+setwd("~/git/snfa-scripts")
 
 remove.packages("snfa")
 
