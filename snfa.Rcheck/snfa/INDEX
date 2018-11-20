@@ -1,0 +1,12 @@
+H.inv.select            Bandwidth matrix selection
+USMacro                 US Macroeconomic Data
+allocative.efficiency   Allocative efficiency estimation
+fit.boundary            Multivariate smooth boundary fitting with
+                        additional constraints
+fit.mean                Kernel smoothing with additional constraints
+fit.sf                  Non-parametric stochastic frontier
+panel.production        Randomly generated panel of production data
+reflect.data            Data reflection for kernel smoothing
+technical.efficiency.change
+                        Technical and efficiency change estimation
+univariate              Randomly generated univariate data

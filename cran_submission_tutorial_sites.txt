@@ -1,0 +1,3 @@
+https://kbroman.org/pkg_primer/pages/cran.html
+http://r-pkgs.had.co.nz/release.html
+http://r-pkgs.had.co.nz/check.html#travis

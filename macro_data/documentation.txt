@@ -1,0 +1,6 @@
+Y: Billions of 2009 Dollars annually
+K: Millions of 2011 Dollars annually
+K_price: 10-Year Treasury, percent annual return
+L: Thousands of persons
+L_price: Weekly earnings in 1982-1984 CPI Adjusted Dollars
+GDPDEF: Price deflator, 2009 = 100
